@@ -5,7 +5,7 @@ class Config(Config):
   APP_ID = 2054317
   API_HASH = "1a6d26873111473f63ceaa8ba9037ce3"
   AUTH_CHANNEL = [-1001432689018, -1001402436493]
-  INDEX_LINK = ""
+  INDEX_LINK = "https://tgindex.hackitabirhasan.workers.dev/3:/Uploads"
   YTDL_COMMAND = "ytdl"
   LEECH_COMMAND = "leech"
   CLEAR_THUMBNAIL = "clearthumbnail"
