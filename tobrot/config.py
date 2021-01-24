@@ -1,16 +1,16 @@
 from tobrot.sample_config import Config
 
 class Config(Config):
-  TG_BOT_TOKEN = "1456964191:AAFLkOh48xbnOtRUwlvCv-q2JObLA7vJsOg"
-  APP_ID = 1878625
-  API_HASH = "3ab3e48ba126de2eb96ffff39b18fa09"
-  AUTH_CHANNEL = [-1001256038785, -1001408445549, -1001398883981, -1001275361660, -1001273851623]
-  INDEX_LINK = "https://tgindex.hackitabirhasan.workers.dev/3:/Uploads"
-  YTDL_COMMAND = "ytdl@Leechz_Robot"
-  LEECH_COMMAND = "leech@Leechz_Robot"
-  CLEAR_THUMBNAIL = "clearthumbnail@Leechz_Robot"
-  SAVE_THUMBNAIL = "savethumbnail@Leechz_Robot"
-  OWNER_ID = 715779594
+  TG_BOT_TOKEN = "1571459835:AAEM2HoN6ec8kNo0IckPUYUvYyigBmcapxM"
+  APP_ID = 2054317
+  API_HASH = "1a6d26873111473f63ceaa8ba9037ce3"
+  AUTH_CHANNEL = [-1001432689018, -1001402436493]
+  INDEX_LINK = ""
+  YTDL_COMMAND = "ytdl"
+  LEECH_COMMAND = "leech"
+  CLEAR_THUMBNAIL = "clearthumbnail"
+  SAVE_THUMBNAIL = "savethumbnail"
+  OWNER_ID = 1443053231
   RCLONE_CONFIG = """type = drive
 scope = drive
 root_folder_id = 1rWomzK1yVjkqIbC9p9EBBKJgcf3imGr4
